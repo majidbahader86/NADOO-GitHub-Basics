@@ -1,0 +1,17 @@
+#####Forking and Branching on GitHub
+***Forking a Repository***
+Step 1: Find and Fork a Repository
+Find a public repository that you want to fork, such as NADOO-Teach. Click the "Fork" button in the top right corner.
+
+
+Step 2: Create a Fork
+The fork will now be created under your own GitHub account. You now have a copy of the original repository that you can work on.
+
+
+Branching in a Repository
+Step 1: Create a New Branch
+Go to your forked repository and click on the branch dropdown menu. Enter a name for your new branch and click "Create branch."
+
+
+Step 2: Work in a New Branch
+Changes you make in this branch will not affect the main branch (main or master). Use branches to develop new features or fix bugs.
